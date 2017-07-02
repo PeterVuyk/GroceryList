@@ -1,0 +1,35 @@
+.root {
+	-fx-background-color: #282A2E;
+}
+
+.button {
+	-fx-background-color: #C5C8C6;
+}
+
+.form-result {
+	-fx-text-fill: #C5C8C6;
+	-fx-font-weight: bold;
+	-fx-font-size: 14;
+}
+
+.total-form-box {
+	-fx-border-color: #C5C8C6;
+}
+
+.menu {
+	-fx-background-color: #C5C8C6;
+}
+
+.menu-bar {
+	-fx-background-color: #C5C8C6;
+}
+
+.menu-item {
+	-fx-background-color: #C5C8C6;
+}
+
+.alert-message-text {
+	-fx-text-fill: #C5C8C6;
+	-fx-font-weight: bold;
+	-fx-font-size: 14;
+}
